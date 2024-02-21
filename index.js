@@ -13,7 +13,7 @@ const perguntas = [
       respostas: [
         "Comparação estrita de valores e tipos",
         "Comparação de valores apenas",
-        "tribuição de valores",
+        "Atribuição de valores",
       ],
       correta: 2,
     },
